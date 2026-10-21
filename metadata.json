@@ -1,0 +1,8 @@
+{
+  "name": "Tes Sumatif IPAS Kelas 4 - Peta dan Bentang Alam",
+  "description": "Aplikasi Tes Sumatif IPAS Kelas 4 Bab Peta dan Bentang Alam SD Negeri 3 Loloan Timur dengan 4 tahap tes, sinkronisasi Google Spreadsheet, unduh PDF naskah & hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
